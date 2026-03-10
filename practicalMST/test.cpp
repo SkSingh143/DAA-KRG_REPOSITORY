@@ -37,7 +37,7 @@ while(head){
     cout<<head->val;
     head = head->next;
 }
-return before->next;
+return beforeshead->next;
 
     
     }
